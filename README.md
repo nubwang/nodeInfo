@@ -1,0 +1,2 @@
+# nodeInfo
+node student
