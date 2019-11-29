@@ -1,0 +1,36 @@
+{
+  "name": "nodeinfo",
+  "version": "1.0.0",
+  "description": "node student",
+  "main": "app.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.7.0",
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-transform-arrow-functions": "^7.2.0",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubwang/nodeInfo.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "wangzhenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nubwang/nodeInfo/issues"
+  },
+  "homepage": "https://github.com/nubwang/nodeInfo#readme"
+}
